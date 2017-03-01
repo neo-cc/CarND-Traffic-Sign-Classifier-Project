@@ -17,9 +17,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization.jpg "Visualization"
-[image2]: ./examples/grayscale.jpg "Grayscaling"
-[image3]: ./examples/normalize.jpg "Normalizing"
+[image1]: ./examples/visualization.jpg  "Visualization"
+[image2]: ./examples/grayscale.jpg      "Grayscaling"
+[image3]: ./examples/Normalizing.jpg    "Normalizing"
 [image4]: ./examples/ahead.png      "Traffic Sign 1"
 [image5]: ./examples/nopassing.png  "Traffic Sign 2"
 [image6]: ./examples/pedestrain.png "Traffic Sign 3"
@@ -34,6 +34,8 @@ The goals / steps of this project are the following:
 ###Writeup / README
 
 ####1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
+
+You're reading it! and here is a link to my [project code](https://github.com/neo-cc/CarND-Traffic-Sign-Classifier-Project)
 
 ###Data Set Summary & Exploration
 
@@ -115,7 +117,7 @@ My final model used LeNet and consisted of the following layers:
 | RELU					|												|
 | Dropout 				| 0.8   										|
 | Fully connected		| outputs 43 nclasses 							|
-|:---------------------:|:---------------------------------------------:| 
+
 
 ####4. Describe how, and identify where in your code, you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs and any hyperparameters such as learning rate.
 
